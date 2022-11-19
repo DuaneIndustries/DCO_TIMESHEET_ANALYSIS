@@ -1,4 +1,4 @@
-# DCO_TIMESHEET_ANALYSIS
+## TIMESHEET ANALYSIS
 For this project, we will use Data from Clockshark, the Duane & Company timekeeping application - to complete a two phase project.  
 *PHASE 1:* Data analysis
 
