@@ -5,12 +5,12 @@ For this project, we will use Data from Clockshark, the Duane & Company timekeep
 For this Phase we will use the data to answer and illustrate the following questions surrounding company labor hours:
     1. Which customers took up the most time? (hours per customer)
     
-    ![](newplot-2.png)
+   ![](newplot-2.png)
     
     
-    2. How many hours worked were travel time? 
+   2. How many hours worked were travel time? 
     
-    ![](newplot-3.png)
+   ![](newplot-3.png)
     
  **PHASE 2:** Automation
  
