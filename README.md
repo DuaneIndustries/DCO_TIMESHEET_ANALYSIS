@@ -7,7 +7,7 @@ For this Phase we will use the data to answer and illustrate the following quest
     2. How many hours worked were travel time? 
     
     
- **PHASE 2:**
+ **PHASE 2:** Automation
  Develop a bot that exports .csv data from Clockshark, splits and recombines notes based on Customer/Job, and emails employees when they have not made an entry on a weekly basis.  
 
  Right now this responsibility falls on my plate, and it would make sense to automate this task to free up my time to focus elsewhere in the business, plus give me a chance to practice in python :)
