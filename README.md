@@ -19,3 +19,4 @@ For this Phase we will use the data to answer and illustrate the following quest
 
  Right now this responsibility falls on my plate, and it would make sense to automate this task to free up my time to focus elsewhere in the business, plus give me a chance to practice in python ;)
     
+
