@@ -1,0 +1,227 @@
+EmployeeFName,EmployeeLName,Customer: Job,Task,TaskCode,Start,End,MinutesBreak,MinutesBillable,MinutesTotal,StartLat,StartLong,EndLat,EndLong,DecimalHours,Notes,Regular (Mins),OverTime (Mins),DoubleTime (Mins),Time Off (Mins),Unpaid Time Off (Mins)
+Sebastian,Uszynski,DUANE & COMPANY:Admin / office ,Office,,12/05/2022 10:00:00 AM,12/05/2022 07:00:00 PM,0,540,540,,,,,9.00,- empire layout  - white coffee layout (afterburner) - payroll conference call  - schedule conference call  ,540,0,0,0,0
+Alder,Mendoza,White Coffee Roasters:White Coffee,Site work,1,12/05/2022 08:00:00 AM,12/05/2022 02:00:00 PM,0,360,360,,,,,6.00,,360,0,0,0,0
+Alder,Mendoza,DUANE & COMPANY:FLOAT,on call,,12/05/2022 02:00:00 PM,12/05/2022 04:00:00 PM,0,120,120,,,,,2.00,,120,0,0,0,0
+Daniel,Martinez,White Coffee Roasters:White Coffee,Site work,1,12/05/2022 08:00:00 AM,12/05/2022 02:00:00 PM,0,360,360,,,,,6.00,,360,0,0,0,0
+Daniel,Martinez,On-Call,on call,,12/05/2022 02:00:00 PM,12/05/2022 04:00:00 PM,0,120,120,,,,,2.00,,120,0,0,0,0
+Alejandro,Varela,Time off policy 0,,,12/05/2022 08:00:00 AM,12/05/2022 04:00:00 PM,,0,0,,,,,0:00,,0,0,0,0,480
+Sebastian,Uszynski,Coffee Holding:Empire Coffee - ICA Relocation,On-site engineering,,12/06/2022 08:00:00 AM,12/06/2022 05:30:00 PM,0,570,570,,,,,9.50,,570,0,0,0,0
+Alder,Mendoza,D'amico Coffee:D Amicos,on call,,12/06/2022 07:30:00 AM,12/06/2022 10:00:00 AM,0,150,150,,,,,2.50,,150,0,0,0,0
+Alder,Mendoza,D'amico Coffee:D Amicos,Site work,1,12/06/2022 10:00:00 AM,12/06/2022 05:45:00 PM,0,465,465,,,,,7.75,Did general service on roaster Removed and cleaned all duct work Check all greasing lines Cleaned fans and collector Check bearings to see if they were greased,465,0,0,0,0
+Daniel,Martinez,On-Call,on call,,12/06/2022 07:30:00 AM,12/06/2022 10:00:00 AM,0,150,150,,,,,2.50,,150,0,0,0,0
+Daniel,Martinez,D'amico Coffee:D Amicos,Site work,1,12/06/2022 10:00:00 AM,12/06/2022 05:45:00 PM,0,465,465,,,,,7.75,,465,0,0,0,0
+Alejandro,Varela,Time off policy 0,,,12/06/2022 08:00:00 AM,12/06/2022 04:00:00 PM,,0,0,,,,,0:00,,0,0,0,0,480
+Sebastian,Uszynski,Coffee Holding:Empire Coffee - ICA Relocation,Meeting,,12/07/2022 08:00:00 AM,12/07/2022 06:30:00 PM,0,630,630,,,,,10.50,- drawings made for ICA relocation ,630,0,0,0,0
+Alder,Mendoza,Empire,Site work,1,12/07/2022 08:00:00 AM,12/07/2022 06:30:00 PM,0,630,630,,,,,10.50,Got material list by measuring electric and pneumatic runs,630,0,0,0,0
+Daniel,Martinez,Coffee Holding:Empire Coffee - ICA Relocation,Site work,1,12/07/2022 08:00:00 AM,12/07/2022 06:30:00 PM,0,630,630,,,,,10.50,,630,0,0,0,0
+Alejandro,Varela,Time off policy 0,,,12/07/2022 08:00:00 AM,12/07/2022 04:00:00 PM,,0,0,,,,,0:00,,0,0,0,0,480
+Sebastian,Uszynski,Coffee Holding:Empire Coffee - ICA Relocation,Off-site Engineering,,12/08/2022 09:00:00 AM,12/08/2022 06:30:00 PM,0,570,570,,,,,9.50,"- elevation drawings - material list  - drove to Rickie to get the piece welded for White coffee IMA lid  - cut and attached piping to the IMA Lid  - dropped off Lid, checked up on Alder ",570,0,0,0,0
+Alder,Mendoza,White Coffee Roasters:White Coffee,Site work,1,12/08/2022 10:30:00 AM,12/08/2022 05:00:00 PM,0,390,390,,,,,6.50,Assesed rosster and planned lid modification ,390,0,0,0,0
+Alder,Mendoza,DUANE & COMPANY:FLOAT,Meeting,,12/08/2022 05:00:00 PM,12/08/2022 08:00:00 PM,0,180,180,,,,,3.00,"Meeting on the phone with joe, Sebastian and joby Regarding scheduling, roaster repair, lid modification   - drove to Sebastian’s to drop of rigging equipment off of frontier",180,0,0,0,0
+Daniel,Martinez,On-Call,on call,,12/08/2022 09:00:00 AM,12/08/2022 10:30:00 AM,0,90,90,,,,,1.50,Police ,90,0,0,0,0
+Daniel,Martinez,White Coffee Roasters:White Coffee,Site work,1,12/08/2022 10:30:00 AM,12/08/2022 05:00:00 PM,0,390,390,,,,,6.50,,390,0,0,0,0
+Alejandro,Varela,Time off policy 0,,,12/08/2022 08:00:00 AM,12/08/2022 04:00:00 PM,,0,0,,,,,0:00,,0,0,0,0,480
+Sebastian,Uszynski,Coffee Holding:Empire Coffee - ICA Relocation,Off-site Engineering,,12/09/2022 08:00:00 AM,12/09/2022 07:00:00 PM,0,660,660,,,,,11.00,,660,0,0,0,0
+Alder,Mendoza,White Coffee Roasters:White Coffee,Site work,1,12/09/2022 08:00:00 AM,12/09/2022 08:00:00 PM,0,720,720,,,,,12.00,Roaster - remove all clattig to add gasketing and silicone on all joints  Ima - installed lid   - placed plywood on top of the machine to stand on - add jacobs tubing to feed machine - modified jacobs tubing to proper length as well as making filange connections for clamps,105,615,0,0,0
+Daniel,Martinez,White Coffee Roasters:White Coffee,Site work,1,12/09/2022 08:00:00 AM,12/09/2022 08:00:00 PM,0,720,720,,,,,12.00,,195,525,0,0,0
+Alejandro,Varela,Time off policy 0,,,12/09/2022 08:00:00 AM,12/09/2022 04:00:00 PM,,0,0,,,,,0:00,,0,0,0,0,480
+Alejandro,Varela,Time off policy 0,,,12/10/2022 08:00:00 AM,12/10/2022 04:00:00 PM,,0,0,,,,,0:00,,0,0,0,0,480
+Alejandro,Varela,Time off policy 0,,,12/11/2022 08:00:00 AM,12/11/2022 04:00:00 PM,,0,0,,,,,0:00,,0,0,0,0,480
+Sebastian,Uszynski,Coffee Holding:Comfort Foods Roaster Repair,Travel,,12/12/2022 07:30:00 AM,12/12/2022 12:00:00 PM,0,270,270,,,,,4.50,NY to Massacusetts ,270,0,0,0,0
+Sebastian,Uszynski,Coffee Holding:Comfort Foods Roaster Project,Site work,1,12/12/2022 12:00:00 PM,12/12/2022 07:30:00 PM,0,450,450,,,,,7.50,"On-site: Sebastian, Daniel   - installed conveyor belt back onto the Lilla conveyor - tested conveyor OK  - installed the square cooling pipe using proper insulation and silicone  - installed the cooler motor back onto it frame  - sealed everything with silicone and high heat insulation  - replaced all hardware with new Grade 3 hardware",450,0,0,0,0
+Alder,Mendoza,White Coffee Roasters:White Coffee,Site work,1,12/12/2022 08:30:00 AM,12/12/2022 05:30:00 PM,0,540,540,,,,,9.00,"Got called in bc roaster #2 was down  Try removing the spray pipe - disconnected water -Removed from green bean dump and everything attached to it (hopper, slide gate, pneumatic connections, conveyor(disconnected side rails) - removed spray pipe by pulling and pushing from inside and outside - straighten pipe -Removed broken piece of insulation  - modified spray pipe- grinned tip for better fit - removed drive motor covers to spin drum by hand -installed spray pipe with hose clamp on the back to prevent pipe from moving - re install front end of roaster  -Re installed conveyor",540,0,0,0,0
+Daniel,Martinez,Coffee Holding:Comfort Foods Roaster Repair,Travel,,12/12/2022 07:30:00 AM,12/12/2022 01:30:00 PM,0,360,360,,,,,6.00,,360,0,0,0,0
+Daniel,Martinez,Coffee Holding:Comfort Foods Roaster Repair,Site work,1,12/12/2022 01:30:00 PM,12/12/2022 07:30:00 PM,0,360,360,,,,,6.00,"Put the motor in place, reattached the belt, and run it through the machine to adjust the tension on it ",360,0,0,0,0
+Alejandro,Varela,Time off policy 0,,,12/12/2022 08:00:00 AM,12/12/2022 04:00:00 PM,,0,0,,,,,0:00,,0,0,0,0,480
+Sebastian,Uszynski,Coffee Holding:Comfort Foods Roaster Repair,Site work,1,12/13/2022 07:30:00 AM,12/13/2022 12:00:00 PM,0,270,270,,,,,4.50,"On-site: Sebastian, Daniel  - buttoned up the Lilla take away conveyor - installed thermocouple junction back onto the roaster  - packed up tools ",270,0,0,0,0
+Sebastian,Uszynski,Coffee Holding:Comfort Foods Roaster Repair,Travel,,12/13/2022 12:00:00 PM,12/13/2022 05:00:00 PM,0,300,300,,,,,5.00,,300,0,0,0,0
+Alder,Mendoza,White Coffee Roasters:White Coffee,Supervising,,12/13/2022 08:30:00 AM,12/13/2022 01:30:00 PM,0,300,300,,,,,5.00,On site to supervise equipment i worked on the previous day - worked on roaster report,300,0,0,0,0
+Alder,Mendoza,DUANE & COMPANY:FLOAT,Meeting,,12/13/2022 01:30:00 PM,12/13/2022 06:30:00 PM,0,300,300,,,,,5.00,Spoked to al parenti and researched 23-r roasters,300,0,0,0,0
+Daniel,Martinez,Coffee Holding:Comfort Foods Roaster Repair,Site work,1,12/13/2022 08:00:00 AM,12/13/2022 10:30:00 AM,0,150,150,,,,,2.50,Put the cover in the belt machine,150,0,0,0,0
+Daniel,Martinez,Coffee Holding:Comfort Foods Roaster Repair,Travel,,12/13/2022 10:30:00 AM,12/13/2022 05:00:00 PM,0,390,390,,,,,6.50,,390,0,0,0,0
+Alejandro,Varela,Time off policy 0,,,12/13/2022 08:00:00 AM,12/13/2022 04:00:00 PM,,0,0,,,,,0:00,,0,0,0,0,480
+Sebastian,Uszynski,Coffee Holding:Empire Coffee - ICA Relocation,Supervising,,12/14/2022 07:30:00 AM,12/14/2022 05:30:00 PM,0,600,600,,,,,10.00,- Started electrical wiring ,600,0,0,0,0
+Sebastian,Uszynski,DUANE & COMPANY:Admin / office ,Office,,12/14/2022 05:30:00 PM,12/14/2022 08:00:00 PM,0,150,150,,,,,2.50,- worked on installing bed cover on the Titan ,150,0,0,0,0
+Alder,Mendoza,Coffee Holding:Empire Coffee - ICA Relocation,Site work,1,12/14/2022 07:00:00 AM,12/14/2022 08:15:00 PM,0,795,795,,,,,13.25,,795,0,0,0,0
+Daniel,Martinez,Coffee Holding:Empire Coffee - ICA Relocation,Site work,1,12/14/2022 07:00:00 AM,12/14/2022 08:15:00 PM,0,795,795,,,,,13.25,"Pick up materials, started the run of 1-1/4 conduit",795,0,0,0,0
+Alejandro,Varela,Time off policy 0,,,12/14/2022 08:00:00 AM,12/14/2022 04:00:00 PM,,0,0,,,,,0:00,,0,0,0,0,480
+Sebastian,Uszynski,Coffee Holding:Empire Coffee - ICA Relocation,Supervising,,12/15/2022 08:00:00 AM,12/15/2022 07:00:00 PM,0,660,660,,,,,11.00,"On-site: Sebastian, Eugene, Alder, Daniel  - continued installing 1 1/4” conduit to the sub panel - removed the existing conduit  - installed junction box (located above the ICA) and knife switch  - routed 1” conduit back to the sub panel",660,0,0,0,0
+Alder,Mendoza,Coffee Holding:Empire Coffee - ICA Relocation,Site work,1,12/15/2022 07:00:00 AM,12/15/2022 09:30:00 PM,0,870,870,,,,,14.50,,465,405,0,0,0
+Daniel,Martinez,Coffee Holding:Empire Coffee - ICA Relocation,Site work,1,12/15/2022 07:00:00 AM,12/15/2022 09:30:00 PM,0,870,870,,,,,14.50,"Pick up from where we left the day before in the 1-1/4 conduit and finish the run, removed and added and new line of 1"" conduit, pick up materials",870,0,0,0,0
+Alejandro,Varela,Time off policy 0,,,12/15/2022 08:00:00 AM,12/15/2022 04:00:00 PM,,0,0,,,,,0:00,,0,0,0,0,480
+Sebastian,Uszynski,Coffee Holding:Empire Coffee - ICA Relocation,Supervising,,12/16/2022 08:00:00 AM,12/16/2022 07:00:00 PM,0,660,660,,,,,11.00,"On-site: Sebastian, Eugene, Daniel, Alder  - installed 3phase sub panel and connected existing wiring back  - pulled #2 wire through to the sub panel  - connected to a 50 amp breaker temporarily  - turned on service  - Alder left earlier (to Philly) @ 4pm",660,0,0,0,0
+Alder,Mendoza,Coffee Holding:Empire Coffee - ICA Relocation,Site work,1,12/16/2022 07:00:00 AM,12/16/2022 07:00:00 PM,0,720,720,,,,,12.00,,0,720,0,0,0
+Daniel,Martinez,Coffee Holding:Empire Coffee - ICA Relocation,Site work,1,12/16/2022 07:00:00 AM,12/16/2022 07:00:00 PM,0,720,720,,,,,12.00,"Pull wire, added box in the 1-1/4 conduit, and finish the run for the switch",225,495,0,0,0
+Alejandro,Varela,Time off policy 0,,,12/16/2022 08:00:00 AM,12/16/2022 04:00:00 PM,,0,0,,,,,0:00,,0,0,0,0,480
+Sebastian,Uszynski,Coffee Holding:Empire Coffee - ICA Relocation,Supervising,,12/17/2022 07:30:00 AM,12/17/2022 05:30:00 PM,0,600,600,,,,,10.00,"Onsite: Sebastian, Adam, Alex, Daniel, Greg  - pulled the #6 wire to the knife-switch and back to the junction, left a 20 plus spool in the junction   - ordered and picked up plumbing supplies for the nitrogen and compressed air - routed the compressed air and nitrogen into the warehouse  - capped the nitrogen and air  - prepped the area for ICA relocation",600,0,0,0,0
+Daniel,Martinez,Coffee Holding:Empire Coffee - ICA Relocation,Site work,1,12/17/2022 07:30:00 AM,12/17/2022 05:30:00 PM,0,600,600,,,,,10.00,,0,600,0,0,0
+Aleks,Prasak,White Coffee Roasters:White Coffee,Site work,1,12/17/2022 07:30:00 AM,12/17/2022 05:30:00 PM,0,600,600,,,,,10.00,,600,0,0,0,0
+Alejandro,Varela,Time off policy 0,,,12/17/2022 08:00:00 AM,12/17/2022 04:00:00 PM,,0,0,,,,,0:00,,0,0,0,0,480
+Alejandro,Varela,Time off policy 0,,,12/18/2022 08:00:00 AM,12/18/2022 04:00:00 PM,,0,0,,,,,0:00,,0,0,0,0,480
+Sebastian,Uszynski,Coffee Holding:Empire Coffee - ICA Relocation,Supervising,,12/19/2022 07:00:00 AM,12/19/2022 07:45:00 PM,0,765,765,,,,,12.75,"On-site: Sebastian, Alder, Daniel   - disassembled section of the platform  - unloaded ICA off the truck  - positioned ICA into place - installed conduit to the hapman and installed cable into the ICA  ",765,0,0,0,0
+Sebastian,Uszynski,Coffee Holding:Empire Coffee - ICA Relocation,Travel,,12/19/2022 07:45:00 PM,12/19/2022 08:45:00 PM,0,60,60,,,,,1.00,Portchester to Queens ,60,0,0,0,0
+Alder,Mendoza,Coffee Holding:Empire Coffee - ICA Relocation,Site work,1,12/19/2022 07:00:00 AM,12/19/2022 10:30:00 PM,0,930,930,,,,,15.50,,930,0,0,0,0
+Daniel,Martinez,Coffee Holding:Empire Coffee - ICA Relocation,Site work,1,12/19/2022 07:00:00 AM,12/19/2022 08:30:00 PM,0,810,810,,,,,13.50,"Took racks apart, help unloaded truck, help the guy put the ica back together, run some conduit ",810,0,0,0,0
+Aleks,Prasak,Coffee Holding:Empire Coffee - ICA Relocation,Site work,1,12/19/2022 07:00:00 AM,12/19/2022 08:30:00 PM,0,810,810,,,,,13.50,,810,0,0,0,0
+Alejandro,Varela,Time off policy 0,,,12/19/2022 08:00:00 AM,12/19/2022 04:00:00 PM,,0,0,,,,,0:00,,0,0,0,0,480
+Sebastian,Uszynski,Coffee Holding:Empire Coffee - ICA Relocation,Site work,1,12/20/2022 07:30:00 AM,12/20/2022 08:00:00 PM,0,750,750,,,,,12.50,"On-site: Sebastian, Daniel  - ran compressed air to the machine and the side wall (as per JC request)   - ran nitrogen into the machine - installed j-box above the frame and pulled wire ",750,0,0,0,0
+Alder,Mendoza,Coffee Holding:Comfort Foods Roaster Repair,Travel,,12/20/2022 07:30:00 AM,12/20/2022 12:00:00 PM,0,270,270,,,,,4.50,Stopped at fedex to pick up fan wheel for lila roaster,270,0,0,0,0
+Alder,Mendoza,Coffee Holding:Comfort Foods Roaster Project,Site work,1,12/20/2022 12:00:00 PM,12/20/2022 08:00:00 PM,0,480,480,,,,,8.00,,480,0,0,0,0
+Daniel,Martinez,Coffee Holding:Empire Coffee - ICA Relocation,Site work,1,12/20/2022 07:30:00 AM,12/20/2022 08:00:00 PM,0,750,750,,,,,12.50,,750,0,0,0,0
+Aleks,Prasak,Coffee Holding:Empire Coffee - ICA Relocation,Site work,1,12/20/2022 07:30:00 AM,12/20/2022 08:00:00 PM,0,750,750,,,,,12.50,,750,0,0,0,0
+Alejandro,Varela,Time off policy 0,,,12/20/2022 08:00:00 AM,12/20/2022 04:00:00 PM,,0,0,,,,,0:00,,0,0,0,0,480
+Sebastian,Uszynski,Coffee Holding:Empire Coffee - ICA Relocation,Site work,1,12/21/2022 07:30:00 AM,12/21/2022 08:00:00 PM,0,750,750,,,,,12.50,"On-site: Sebastian, Daniel, Alex  - moved rack that was near the frame out  - mounted hapman hopper to the ceiling with cables  - positioned Supersack frame  - mounted hapman motor  - connected screw and tubing into the motor  - moved hapman control panel  - connected conduit to the control panel  - mounted and connected breaker for hapman ",750,0,0,0,0
+Alder,Mendoza,Coffee Holding:Comfort Foods Roaster Repair,Site work,1,12/21/2022 06:15:00 AM,12/21/2022 12:00:00 PM,0,345,345,,,,,5.75,Went to electronical supply to pick up materials. Installed fan wheel Conference call with joe and marshal regarding problems with fan wheel shaft  Intalled and tested thermocouple  ,345,0,0,0,0
+Alder,Mendoza,Coffee Holding:Comfort Foods Roaster Repair,Travel,,12/21/2022 12:30:00 PM,12/21/2022 05:30:00 PM,0,300,300,,,,,5.00,,300,0,0,0,0
+Daniel,Martinez,Coffee Holding:Empire Coffee - ICA Relocation,Site work,1,12/21/2022 07:30:00 AM,12/21/2022 08:15:00 PM,0,765,765,,,,,12.75,,765,0,0,0,0
+Aleks,Prasak,Coffee Holding:Empire Coffee - ICA Relocation,Site work,1,12/21/2022 07:30:00 AM,12/21/2022 08:15:00 PM,0,765,765,,,,,12.75,,765,0,0,0,0
+Alejandro,Varela,Time off policy 0,,,12/21/2022 08:00:00 AM,12/21/2022 04:00:00 PM,,0,0,,,,,0:00,,0,0,0,0,480
+Sebastian,Uszynski,Coffee Holding:Empire Coffee - ICA Relocation,Supervising,,12/22/2022 07:30:00 AM,12/22/2022 06:30:00 PM,0,660,660,,,,,11.00,,660,0,0,0,0
+Daniel,Martinez,Coffee Holding:Empire Coffee - ICA Relocation,Site work,1,12/22/2022 07:30:00 AM,12/22/2022 06:30:00 PM,0,660,660,,,,,11.00,,75,585,0,0,0
+Aleks,Prasak,Coffee Holding:Empire Coffee - ICA Relocation,Site work,1,12/22/2022 07:30:00 AM,12/22/2022 06:30:00 PM,0,660,660,,,,,11.00,,660,0,0,0,0
+Alejandro,Varela,Time off policy 0,,,12/22/2022 08:00:00 AM,12/22/2022 04:00:00 PM,,0,0,,,,,0:00,,0,0,0,0,480
+Alder,Mendoza,Time off policy 0,,,12/22/2022 08:00:00 AM,12/22/2022 04:00:00 PM,,0,0,,,,,0:00,,0,0,0,0,480
+Alder,Mendoza,NEW PTO  accrual  : 1-3 years,,,12/22/2022 08:00:00 AM,12/22/2022 04:00:00 PM,,480,480,,,,,8.00,,0,0,0,480,0
+Sebastian,Uszynski,Coffee Holding:Empire Coffee - ICA Relocation,Supervising,,12/23/2022 07:30:00 AM,12/23/2022 04:00:00 PM,0,510,510,,,,,8.50,,510,0,0,0,0
+Daniel,Martinez,Coffee Holding:Empire Coffee - ICA Relocation,Site work,1,12/23/2022 07:30:00 AM,12/23/2022 03:45:00 PM,0,495,495,,,,,8.25,,0,495,0,0,0
+Alejandro,Varela,Time off policy 0,,,12/23/2022 08:00:00 AM,12/23/2022 04:00:00 PM,,0,0,,,,,0:00,,0,0,0,0,480
+Alder,Mendoza,Time off policy 0,,,12/23/2022 08:00:00 AM,12/23/2022 04:00:00 PM,,0,0,,,,,0:00,,0,0,0,0,480
+Aleks,Prasak,Time off policy 0,,,12/23/2022 08:00:00 AM,12/23/2022 04:00:00 PM,,480,480,,,,,8.00,,0,0,0,480,0
+Alder,Mendoza,NEW PTO  accrual  : 1-3 years,,,12/23/2022 08:00:00 AM,12/23/2022 04:00:00 PM,,480,480,,,,,8.00,,0,0,0,480,0
+Alejandro,Varela,Time off policy 0,,,12/24/2022 08:00:00 AM,12/24/2022 04:00:00 PM,,0,0,,,,,0:00,,0,0,0,0,480
+Alder,Mendoza,Time off policy 0,,,12/24/2022 08:00:00 AM,12/24/2022 04:00:00 PM,,0,0,,,,,0:00,,0,0,0,0,480
+Alejandro,Varela,Time off policy 0,,,12/25/2022 08:00:00 AM,12/25/2022 04:00:00 PM,,0,0,,,,,0:00,,0,0,0,0,480
+Alder,Mendoza,Time off policy 0,,,12/25/2022 08:00:00 AM,12/25/2022 04:00:00 PM,,0,0,,,,,0:00,,0,0,0,0,480
+Alejandro,Varela,Time off policy 0,,,12/26/2022 08:00:00 AM,12/26/2022 04:00:00 PM,,0,0,,,,,0:00,,0,0,0,0,480
+Alder,Mendoza,Time off policy 0,,,12/26/2022 08:00:00 AM,12/26/2022 04:00:00 PM,,0,0,,,,,0:00,,0,0,0,0,480
+Sebastian,Uszynski,Holiday PTO,,,12/26/2022 08:00:00 AM,12/26/2022 04:00:00 PM,,480,480,,,,,8.00,,0,0,0,480,0
+Daniel,Martinez,Holiday PTO,,,12/26/2022 08:00:00 AM,12/26/2022 04:00:00 PM,,480,480,,,,,8.00,,0,0,0,480,0
+Alder,Mendoza,Holiday PTO,,,12/26/2022 08:00:00 AM,12/26/2022 04:00:00 PM,,480,480,,,,,8.00,,0,0,0,480,0
+Sebastian,Uszynski,Coffee Holding:Empire Coffee - ICA Relocation,Supervising,,12/27/2022 07:30:00 AM,12/27/2022 11:00:00 AM,0,210,210,,,,,3.50,"On-site: Alex, Daniel  - installed 110V line with two drop lines from the ceiling  - installed the extra piping for the compressed air and routed it to the supersack frame",210,0,0,0,0
+Sebastian,Uszynski,DUANE & COMPANY:Admin / office ,Conference Call,,12/27/2022 11:00:00 AM,12/27/2022 03:00:00 PM,0,240,240,,,,,4.00,- worked on the Lilla impeller issue  - conference call with George @ For five Coffee,240,0,0,0,0
+Sebastian,Uszynski,DUANE & COMPANY:Admin / office ,on call,,12/27/2022 04:00:00 PM,12/27/2022 05:30:00 PM,0,90,90,,,,,1.50,,90,0,0,0,0
+Daniel,Martinez,Coffee Holding:Empire Coffee - ICA Relocation,Site work,1,12/27/2022 07:30:00 AM,12/27/2022 07:30:00 PM,0,720,720,,,,,12.00,,720,0,0,0,0
+Aleks,Prasak,Coffee Holding:Empire Coffee - ICA Relocation,Site work,1,12/27/2022 07:30:00 AM,12/27/2022 07:30:00 PM,0,720,720,,,,,12.00,,720,0,0,0,0
+Alejandro,Varela,Time off policy 0,,,12/27/2022 08:00:00 AM,12/27/2022 04:00:00 PM,,0,0,,,,,0:00,,0,0,0,0,480
+Alder,Mendoza,Time off policy 0,,,12/27/2022 08:00:00 AM,12/27/2022 04:00:00 PM,,0,0,,,,,0:00,,0,0,0,0,480
+Alder,Mendoza,NEW PTO  accrual  : 1-3 years,,,12/27/2022 08:00:00 AM,12/27/2022 04:00:00 PM,,480,480,,,,,8.00,,0,0,0,480,0
+Sebastian,Uszynski,Coffee Holding:Empire Coffee - ICA Relocation,Supervising,,12/28/2022 08:00:00 AM,12/28/2022 07:30:00 PM,0,690,690,,,,,11.50,,690,0,0,0,0
+Daniel,Martinez,Coffee Holding:Empire Coffee - ICA Relocation,Site work,1,12/28/2022 08:00:00 AM,12/28/2022 07:30:00 PM,0,690,690,,,,,11.50,,690,0,0,0,0
+Aleks,Prasak,Coffee Holding:Empire Coffee - ICA Relocation,Site work,1,12/28/2022 08:00:00 AM,12/28/2022 07:30:00 PM,0,690,690,,,,,11.50,,690,0,0,0,0
+Alejandro,Varela,Time off policy 0,,,12/28/2022 08:00:00 AM,12/28/2022 04:00:00 PM,,0,0,,,,,0:00,,0,0,0,0,480
+Alder,Mendoza,Time off policy 0,,,12/28/2022 08:00:00 AM,12/28/2022 04:00:00 PM,,0,0,,,,,0:00,,0,0,0,0,480
+Alder,Mendoza,NEW PTO  accrual  : 1-3 years,,,12/28/2022 08:00:00 AM,12/28/2022 04:00:00 PM,,480,480,,,,,8.00,,0,0,0,480,0
+Sebastian,Uszynski,DUANE & COMPANY:Admin / office ,Off-site Engineering,,12/29/2022 07:30:00 AM,12/29/2022 09:00:00 AM,0,90,90,,,,,1.50,- drawing updated for Lilla impeller cover  - conference call with Marshall ,90,0,0,0,0
+Sebastian,Uszynski,GILLIES COFFEE,Supervising,,12/29/2022 09:00:00 AM,12/29/2022 02:00:00 PM,0,300,300,,,,,5.00,"- stopped by Gilles to check out what Alex and Daniel got done  - spoke to Donald, updated him the leaking solenoids and pistons job ",300,0,0,0,0
+Sebastian,Uszynski,FOR FIVE COFFEE:Arista / For Five,Meeting,,12/29/2022 02:00:00 PM,12/29/2022 04:30:00 PM,0,150,150,,,,,2.50,,150,0,0,0,0
+Sebastian,Uszynski,DUANE & COMPANY:FLOAT,Meeting,,12/29/2022 04:30:00 PM,12/29/2022 08:00:00 PM,0,210,210,,,,,3.50,-,210,0,0,0,0
+Daniel,Martinez,GILLIES COFFEE,Site work,1,12/29/2022 08:00:00 AM,12/29/2022 02:00:00 PM,0,360,360,,,,,6.00,,360,0,0,0,0
+Daniel,Martinez,FOR FIVE COFFEE:Post Fire Recommissioning,Site work,1,12/29/2022 02:00:00 PM,12/29/2022 05:00:00 PM,0,180,180,,,,,3.00,,180,0,0,0,0
+Aleks,Prasak,GILLIES COFFEE,Site work,1,12/29/2022 08:00:00 AM,12/29/2022 02:00:00 PM,0,360,360,,,,,6.00,,360,0,0,0,0
+Aleks,Prasak,FOR FIVE COFFEE:Post Fire Recommissioning,Site work,1,12/29/2022 02:00:00 PM,12/29/2022 05:00:00 PM,0,180,180,,,,,3.00,,180,0,0,0,0
+Alejandro,Varela,Time off policy 0,,,12/29/2022 08:00:00 AM,12/29/2022 04:00:00 PM,,0,0,,,,,0:00,,0,0,0,0,480
+Alder,Mendoza,Time off policy 0,,,12/29/2022 08:00:00 AM,12/29/2022 04:00:00 PM,,0,0,,,,,0:00,,0,0,0,0,480
+Alder,Mendoza,NEW PTO  accrual  : 1-3 years,,,12/29/2022 08:00:00 AM,12/29/2022 04:00:00 PM,,480,480,,,,,8.00,,0,0,0,480,0
+Sebastian,Uszynski,DUANE & COMPANY:FLOAT,Office,,12/30/2022 08:00:00 AM,12/30/2022 04:30:00 PM,0,510,510,,,,,8.50,On-call ,510,0,0,0,0
+Daniel,Martinez,Coffee Holding:Empire Coffee - ICA Relocation,Site work,1,12/30/2022 07:00:00 AM,12/30/2022 06:00:00 PM,0,660,660,,,,,11.00,,450,210,0,0,0
+Aleks,Prasak,Coffee Holding:Empire Coffee - ICA Relocation,Site work,1,12/30/2022 07:00:00 AM,12/30/2022 06:00:00 PM,0,660,660,,,,,11.00,,660,0,0,0,0
+Alejandro,Varela,Time off policy 0,,,12/30/2022 08:00:00 AM,12/30/2022 04:00:00 PM,,0,0,,,,,0:00,,0,0,0,0,480
+Alder,Mendoza,Time off policy 0,,,12/30/2022 08:00:00 AM,12/30/2022 04:00:00 PM,,0,0,,,,,0:00,,0,0,0,0,480
+Alder,Mendoza,NEW PTO  accrual  : 1-3 years,,,12/30/2022 08:00:00 AM,12/30/2022 04:00:00 PM,,480,480,,,,,8.00,,0,0,0,480,0
+Alejandro,Varela,Time off policy 0,,,12/31/2022 08:00:00 AM,12/31/2022 04:00:00 PM,,0,0,,,,,0:00,,0,0,0,0,480
+Alder,Mendoza,Time off policy 0,,,12/31/2022 08:00:00 AM,12/31/2022 04:00:00 PM,,0,0,,,,,0:00,,0,0,0,0,480
+Alejandro,Varela,Time off policy 0,,,01/01/2023 08:00:00 AM,01/01/2023 04:00:00 PM,,0,0,,,,,0:00,,0,0,0,0,480
+Alder,Mendoza,Time off policy 0,,,01/01/2023 08:00:00 AM,01/01/2023 04:00:00 PM,,0,0,,,,,0:00,,0,0,0,0,480
+Daniel,Martinez,On-Call,Holiday,,01/02/2023 09:00:00 AM,01/02/2023 05:00:00 PM,0,480,480,,,,,8.00,,480,0,0,0,0
+Alejandro,Varela,Time off policy 0,,,01/02/2023 08:00:00 AM,01/02/2023 04:00:00 PM,,0,0,,,,,0:00,,0,0,0,0,480
+Alder,Mendoza,Time off policy 0,,,01/02/2023 08:00:00 AM,01/02/2023 04:00:00 PM,,0,0,,,,,0:00,,0,0,0,0,480
+Alder,Mendoza,NEW PTO  accrual  : 1-3 years,,,01/02/2023 08:00:00 AM,01/02/2023 04:00:00 PM,,480,480,,,,,8.00,,0,0,0,480,0
+Daniel,Martinez,Coffee Holding:Comfort Foods Roaster Repair,Site work,1,01/03/2023 05:30:00 AM,01/03/2023 06:30:00 PM,0,780,780,,,,,13.00,,780,0,0,0,0
+Aleks,Prasak,Coffee Holding:Comfort Foods Roaster Repair,Site work,1,01/03/2023 05:30:00 AM,01/03/2023 06:30:00 PM,0,780,780,,,,,13.00,,780,0,0,0,0
+Alejandro,Varela,Time off policy 0,,,01/03/2023 08:00:00 AM,01/03/2023 04:00:00 PM,,0,0,,,,,0:00,,0,0,0,0,480
+Alder,Mendoza,Time off policy 0,,,01/03/2023 08:00:00 AM,01/03/2023 04:00:00 PM,,0,0,,,,,0:00,,0,0,0,0,480
+Alder,Mendoza,NEW PTO  accrual  : 1-3 years,,,01/03/2023 08:00:00 AM,01/03/2023 04:00:00 PM,,480,480,,,,,8.00,,0,0,0,480,0
+Daniel,Martinez,Coffee Holding:Comfort Foods Roaster Repair,Site work,1,01/04/2023 06:30:00 AM,01/04/2023 06:30:00 PM,0,720,720,,,,,12.00,,720,0,0,0,0
+Aleks,Prasak,Coffee Holding:Comfort Foods Roaster Repair,Site work,1,01/04/2023 06:30:00 AM,01/04/2023 06:30:00 PM,0,720,720,,,,,12.00,,720,0,0,0,0
+Alejandro,Varela,Time off policy 0,,,01/04/2023 08:00:00 AM,01/04/2023 04:00:00 PM,,0,0,,,,,0:00,,0,0,0,0,480
+Alder,Mendoza,Time off policy 0,,,01/04/2023 08:00:00 AM,01/04/2023 04:00:00 PM,,0,0,,,,,0:00,,0,0,0,0,480
+Alder,Mendoza,NEW PTO  accrual  : 1-3 years,,,01/04/2023 08:00:00 AM,01/04/2023 04:00:00 PM,,480,480,,,,,8.00,,0,0,0,480,0
+Daniel,Martinez,Coffee Holding:Comfort Foods Roaster Repair,Site work,1,01/05/2023 06:30:00 AM,01/05/2023 06:30:00 PM,0,720,720,,,,,12.00,,420,300,0,0,0
+Aleks,Prasak,Coffee Holding:Comfort Foods Roaster Repair,Site work,1,01/05/2023 06:30:00 AM,01/05/2023 03:00:00 PM,0,510,510,,,,,8.50,,510,0,0,0,0
+Alejandro,Varela,Time off policy 0,,,01/05/2023 08:00:00 AM,01/05/2023 04:00:00 PM,,0,0,,,,,0:00,,0,0,0,0,480
+Alder,Mendoza,Time off policy 0,,,01/05/2023 08:00:00 AM,01/05/2023 04:00:00 PM,,0,0,,,,,0:00,,0,0,0,0,480
+Alder,Mendoza,NEW PTO  accrual  : 1-3 years,,,01/05/2023 08:00:00 AM,01/05/2023 04:00:00 PM,,480,480,,,,,8.00,,0,0,0,480,0
+Daniel,Martinez,Coffee Holding:Comfort Foods Roaster Repair,Site work,1,01/06/2023 05:30:00 AM,01/06/2023 09:00:00 PM,0,930,930,,,,,15.50,,0,930,0,0,0
+Alejandro,Varela,Time off policy 0,,,01/06/2023 08:00:00 AM,01/06/2023 04:00:00 PM,,0,0,,,,,0:00,,0,0,0,0,480
+Alder,Mendoza,Time off policy 0,,,01/06/2023 08:00:00 AM,01/06/2023 04:00:00 PM,,0,0,,,,,0:00,,0,0,0,0,480
+Alder,Mendoza,NEW PTO  accrual  : 1-3 years,,,01/06/2023 08:00:00 AM,01/06/2023 04:00:00 PM,,480,480,,,,,8.00,,0,0,0,480,0
+Alejandro,Varela,Time off policy 0,,,01/07/2023 08:00:00 AM,01/07/2023 04:00:00 PM,,0,0,,,,,0:00,,0,0,0,0,480
+Alder,Mendoza,Time off policy 0,,,01/07/2023 08:00:00 AM,01/07/2023 04:00:00 PM,,0,0,,,,,0:00,,0,0,0,0,480
+Alejandro,Varela,Time off policy 0,,,01/08/2023 08:00:00 AM,01/08/2023 04:00:00 PM,,0,0,,,,,0:00,,0,0,0,0,480
+Alder,Mendoza,Time off policy 0,,,01/08/2023 08:00:00 AM,01/08/2023 04:00:00 PM,,0,0,,,,,0:00,,0,0,0,0,480
+Daniel,Martinez,Coffee Holding:Comfort Foods Roaster Repair,Site work,1,01/09/2023 05:00:00 AM,01/09/2023 07:00:00 PM,0,840,840,,,,,14.00,,840,0,0,0,0
+Aleks,Prasak,Death Wish Coffee:DW General,Meeting,,01/09/2023 01:00:00 PM,01/09/2023 09:00:00 PM,0,480,480,,,,,8.00,Robotics demonstration,480,0,0,0,0
+Alejandro,Varela,Time off policy 0,,,01/09/2023 08:00:00 AM,01/09/2023 04:00:00 PM,,0,0,,,,,0:00,,0,0,0,0,480
+Alder,Mendoza,Time off policy 0,,,01/09/2023 08:00:00 AM,01/09/2023 04:00:00 PM,,0,0,,,,,0:00,,0,0,0,0,480
+Daniel,Martinez,Coffee Holding:Comfort Foods Roaster Repair,Site work,1,01/10/2023 05:30:00 AM,01/10/2023 05:30:00 PM,0,720,720,,,,,12.00,,720,0,0,0,0
+Aleks,Prasak,GILLIES COFFEE,Site work,1,01/10/2023 10:30:00 AM,01/10/2023 03:45:00 PM,0,315,315,,,,,5.25,- replaced 2 pistons        - need to replace 2 more and check one gate that is not closing,315,0,0,0,0
+Alejandro,Varela,Time off policy 0,,,01/10/2023 08:00:00 AM,01/10/2023 04:00:00 PM,,0,0,,,,,0:00,,0,0,0,0,480
+Alder,Mendoza,Time off policy 0,,,01/10/2023 08:00:00 AM,01/10/2023 04:00:00 PM,,0,0,,,,,0:00,,0,0,0,0,480
+Daniel,Martinez,Coffee Holding:Comfort Foods Roaster Repair,Site work,1,01/11/2023 05:30:00 AM,01/11/2023 04:30:00 PM,0,660,660,,,,,11.00,,660,0,0,0,0
+Aleks,Prasak,Coffee Holding:Empire Coffee - ICA Relocation,Site work,1,01/11/2023 11:00:00 AM,01/11/2023 08:00:00 PM,0,540,540,,,,,9.00,- installed buck and boost transformers        - tested to make sure we were getting higher voltages                 - measure 216-220 at the machine,540,0,0,0,0
+Alejandro,Varela,Time off policy 0,,,01/11/2023 08:00:00 AM,01/11/2023 04:00:00 PM,,0,0,,,,,0:00,,0,0,0,0,480
+Alder,Mendoza,Time off policy 0,,,01/11/2023 08:00:00 AM,01/11/2023 04:00:00 PM,,0,0,,,,,0:00,,0,0,0,0,480
+Daniel,Martinez,Coffee Holding:Comfort Foods Roaster Repair,Site work,1,01/12/2023 05:30:00 AM,01/12/2023 06:30:00 PM,0,780,780,,,,,13.00,,180,600,0,0,0
+Aleks,Prasak,Coffee Holding:Empire Coffee - ICA Relocation,Site work,1,01/12/2023 06:00:00 AM,01/12/2023 05:00:00 PM,0,660,660,,,,,11.00,- came in early to be on site when ica was started         - cleaned up wiring between knife switch and transformers                    - added conduit nipples and rewired everything                    - need to go back to add junction box under transformer                              - wires wouldnt fit in transformer         - accidentally swapped two legs and motor on ica had wrong rotation                    - gearbox for conveyor height adjustment broke off mount                    - swapped legs at machine to get correct motor rotation         - still had correct voltage at 216-220,660,0,0,0,0
+Alejandro,Varela,Time off policy 0,,,01/12/2023 08:00:00 AM,01/12/2023 04:00:00 PM,,0,0,,,,,0:00,,0,0,0,0,480
+Alder,Mendoza,Time off policy 0,,,01/12/2023 08:00:00 AM,01/12/2023 04:00:00 PM,,0,0,,,,,0:00,,0,0,0,0,480
+Daniel,Martinez,Coffee Holding:Comfort Foods Roaster Repair,Travel,,01/13/2023 03:30:00 AM,01/13/2023 08:30:00 AM,0,300,300,,,,,5.00,,300,0,0,0,0
+Daniel,Martinez,FOR FIVE COFFEE:Post Fire Recommissioning,Site work,1,01/13/2023 08:30:00 AM,01/13/2023 06:00:00 PM,0,570,570,,,,,9.50,,0,570,0,0,0
+Alejandro,Varela,Time off policy 0,,,01/13/2023 08:00:00 AM,01/13/2023 04:00:00 PM,,0,0,,,,,0:00,,0,0,0,0,480
+Alder,Mendoza,Time off policy 0,,,01/13/2023 08:00:00 AM,01/13/2023 04:00:00 PM,,0,0,,,,,0:00,,0,0,0,0,480
+Alejandro,Varela,FOR FIVE COFFEE:Arista / For Five,Site work,1,01/16/2023 07:30:00 AM,01/16/2023 07:00:00 PM,0,690,690,,,,,11.50,Took inventory of air fittings needing to be replaced. Parts were ordered.,690,0,0,0,0
+Daniel,Martinez,FOR FIVE COFFEE:Post Fire Recommissioning,Site work,1,01/16/2023 07:30:00 AM,01/16/2023 07:00:00 PM,0,690,690,,,,,11.50,,690,0,0,0,0
+Alejandro,Varela,GILLIES COFFEE,Site work,1,01/17/2023 06:00:00 AM,01/17/2023 07:30:00 PM,0,810,810,,,,,13.50,,810,0,0,0,0
+Daniel,Martinez,GILLIES COFFEE,Site work,1,01/17/2023 06:00:00 AM,01/17/2023 12:00:00 PM,0,360,360,,,,,6.00,,360,0,0,0,0
+Daniel,Martinez,FOR FIVE COFFEE:Post Fire Recommissioning,Site work,1,01/17/2023 12:00:00 PM,01/17/2023 07:30:00 PM,0,450,450,,,,,7.50,,450,0,0,0,0
+Alejandro,Varela,FOR FIVE COFFEE:Arista / For Five,Site work,1,01/18/2023 07:00:00 AM,01/18/2023 07:00:00 PM,0,720,720,,,,,12.00,,720,0,0,0,0
+Alder,Mendoza,FOR FIVE COFFEE:Arista / For Five,Supervising,,01/18/2023 04:00:00 PM,01/18/2023 06:00:00 PM,0,120,120,,,,,2.00,Showed up to arista as per Joe’s request to review project condition - phone call with joe - reviewed project with the guys,120,0,0,0,0
+Daniel,Martinez,FOR FIVE COFFEE:Post Fire Recommissioning,Site work,1,01/18/2023 07:00:00 AM,01/18/2023 07:00:00 PM,0,720,720,,,,,12.00,,720,0,0,0,0
+Alejandro,Varela,FOR FIVE COFFEE:Arista / For Five,Site work,1,01/19/2023 08:00:00 AM,01/19/2023 06:30:00 PM,0,630,630,,,,,10.50,,630,0,0,0,0
+Alder,Mendoza,FOR FIVE COFFEE:Arista / For Five,Site work,1,01/19/2023 07:30:00 AM,01/19/2023 07:00:00 PM,0,690,690,,,,,11.50,Worked on re wiring equipment  Covered all machines with bags to protect equipment from cleaning guys Replaced conduit  Purchased materials Went to bapco to discuss motor Went to bapco to pick up fan wheel ,690,0,0,0,0
+Daniel,Martinez,FOR FIVE COFFEE:Post Fire Recommissioning,Site work,1,01/19/2023 07:00:00 AM,01/19/2023 06:30:00 PM,0,690,690,,,,,11.50,,180,510,0,0,0
+Alejandro,Varela,FOR FIVE COFFEE:Arista / For Five,Site work,1,01/20/2023 07:15:00 AM,01/20/2023 07:00:00 PM,0,705,705,,,,,11.75,,705,0,0,0,0
+Alder,Mendoza,FOR FIVE COFFEE:Arista / For Five,Site work,1,01/20/2023 07:30:00 AM,01/20/2023 11:00:00 PM,0,930,930,,,,,15.50,Worked on panel roaster panel Got check from arista for joe Left to coffee roasters,930,0,0,0,0
+Alder,Mendoza,Coffee Roasters NJ,Site work,1,01/20/2023 04:00:00 PM,01/20/2023 07:00:00 PM,0,180,180,,,,,3.00,Trouble shot roaster  Opened bearing houses to check for lube  Cleaned bearings Lubed bearings Removed covers for back pulley - to grease bearing ,180,0,0,0,0
+Daniel,Martinez,FOR FIVE COFFEE:Post Fire Recommissioning,Site work,1,01/20/2023 07:00:00 AM,01/20/2023 07:00:00 PM,0,720,720,,,,,12.00,,0,720,0,0,0
+Sebastian,Uszynski,FOR FIVE COFFEE:Post Fire Recommissioning,Site work,1,01/23/2023 08:00:00 AM,01/23/2023 05:30:00 PM,0,570,570,,,,,9.50,"On-site: Sebastian, Alejandro   - pulled control wire from the roaster control panel to the roaster  - terminated control wires  - turned on the the old grinder  - turned on both packaging machines - both packaging machines have a faulty battery and potentially a loss in the program  - created a list of machines that need to be serviced ",570,0,0,0,0
+Alejandro,Varela,FOR FIVE COFFEE:Arista / For Five,Site work,1,01/23/2023 08:00:00 AM,01/23/2023 05:30:00 PM,0,570,570,,,,,9.50,Removed bag covers from electrical equipment that had been covered for the cleaning company to perform duties.  Continued making control wire connections in the panel .,570,0,0,0,0
+Alder,Mendoza,Coffee Holding:Comfort Foods Roaster Repair,Site work,1,01/23/2023 05:30:00 AM,01/23/2023 03:30:00 PM,0,600,600,,,,,10.00,,600,0,0,0,0
+Daniel,Martinez,NEW PTO  accrual  : 1-3 years,,,01/23/2023 08:00:00 AM,01/23/2023 04:00:00 PM,,480,480,,,,,8.00,,0,0,0,480,0
+Sebastian,Uszynski,Rival Bros Coffee:Rival Expansion Project,Meeting,,01/24/2023 07:00:00 AM,01/24/2023 06:00:00 PM,0,660,660,,,,,11.00,- meeting with Damien about the expansion project  - determined that Layout 2 will work best for them  - need to update Layout 2 and provide elevation drawings  - need to design the green bean silo system,660,0,0,0,0
+Alejandro,Varela,On-Call,on call,,01/24/2023 07:00:00 AM,01/24/2023 06:00:00 PM,0,660,660,,,,,11.00,Organization of warehouse materials in Philadelphia ,660,0,0,0,0
+Alder,Mendoza,Coffee Holding:Comfort Foods Roaster Repair,Site work,1,01/24/2023 07:00:00 AM,01/24/2023 03:30:00 PM,0,510,510,,,,,8.50,,510,0,0,0,0
+Daniel,Martinez,NEW PTO  accrual  : 1-3 years,,,01/24/2023 08:00:00 AM,01/24/2023 04:00:00 PM,,480,480,,,,,8.00,,0,0,0,480,0
+Sebastian,Uszynski,FOR FIVE COFFEE:Post Fire Recommissioning,Site work,1,01/25/2023 08:00:00 AM,01/25/2023 06:00:00 PM,0,600,600,,,,,10.00,"On-site: Sebastian, Alejandro   - powered on roaster, found fault on PLC, program may be lost  - checked wires for shorts - checked motors  - wired up the chainvey/grinder panel  - powered on the panel  - troubleshooting the safety door on the chainvey panel, wires where miss marked ",600,0,0,0,0
+Sebastian,Uszynski,Coffee Holding:Comfort Foods Roaster Repair,Travel,,01/25/2023 08:00:00 PM,01/26/2023 12:30:00 AM,0,270,270,,,,,4.50,,270,0,0,0,0
+Alejandro,Varela,FOR FIVE COFFEE:Post Fire Recommissioning,Site work,1,01/25/2023 08:00:00 AM,01/25/2023 06:00:00 PM,0,600,600,,,,,10.00,,600,0,0,0,0
+Alejandro,Varela,Coffee Holding:Comfort Foods Roaster Repair,Travel,,01/25/2023 08:00:00 PM,01/26/2023 12:30:00 AM,0,270,270,,,,,4.50,,270,0,0,0,0
+Alder,Mendoza,Coffee Holding:Comfort Foods Roaster Repair,Site work,1,01/25/2023 07:30:00 AM,01/25/2023 06:00:00 PM,0,630,630,,,,,10.50,,630,0,0,0,0
+Daniel,Martinez,NEW PTO  accrual  : 1-3 years,,,01/25/2023 08:00:00 AM,01/25/2023 04:00:00 PM,,480,480,,,,,8.00,,0,0,0,480,0
+Sebastian,Uszynski,Coffee Holding:Comfort Foods Roaster Repair,Site work,1,01/26/2023 08:00:00 AM,01/26/2023 06:00:00 PM,0,600,600,,,,,10.00,"On-site: Sebastian, Alder, Alejandro   - conducted multiple roast and adjusted parameters in order to minimize ember output at the discharge sequence of the roast - roasted 16 roasts at 500lbs each  - made proper adjustment during each roast to improve the efficiency of the roaster",600,0,0,0,0
+Alejandro,Varela,Coffee Holding:Comfort Foods Roaster Repair,Site work,1,01/26/2023 08:00:00 AM,01/26/2023 05:30:00 PM,0,570,570,,,,,9.50,,570,0,0,0,0
+Alder,Mendoza,Coffee Holding:Comfort Foods Roaster Repair,Site work,1,01/26/2023 07:30:00 AM,01/26/2023 06:00:00 PM,0,630,630,,,,,10.50,,630,0,0,0,0
+Daniel,Martinez,NEW PTO  accrual  : 1-3 years,,,01/26/2023 08:00:00 AM,01/26/2023 04:00:00 PM,,480,480,,,,,8.00,,0,0,0,480,0
+Sebastian,Uszynski,Coffee Holding:Comfort Foods Roaster Repair,Site work,1,01/27/2023 08:00:00 AM,01/27/2023 02:15:00 PM,0,375,375,,,,,6.25,"On-site: Sebastian, Alder, Alejandro   - replaced solenoids and 24VDC coils with 120VAC coils and solenoids - adjusted the front plate of the roaster to minimize leakage  - tested solenoids and drum clearance  - supervised the roasting process",375,0,0,0,0
+Sebastian,Uszynski,Coffee Holding:Comfort Foods Roaster Repair,Travel,,01/27/2023 02:15:00 PM,01/27/2023 06:30:00 PM,0,255,255,,,,,4.25,,255,0,0,0,0
+Alejandro,Varela,Coffee Holding:Comfort Foods Roaster Repair,Site work,1,01/27/2023 08:00:00 AM,01/27/2023 02:15:00 PM,0,375,375,,,,,6.25,,375,0,0,0,0
+Alejandro,Varela,Coffee Holding:Comfort Foods Roaster Repair,Travel,,01/27/2023 02:15:00 PM,01/27/2023 06:30:00 PM,0,255,255,,,,,4.25,,255,0,0,0,0
+Alder,Mendoza,Coffee Holding:Comfort Foods Roaster Repair,Site work,1,01/27/2023 07:45:00 AM,01/27/2023 02:30:00 PM,0,405,405,,,,,6.75,,30,375,0,0,0
+Alder,Mendoza,Coffee Holding:Comfort Foods Roaster Repair,Travel,,01/27/2023 02:30:00 PM,01/27/2023 06:30:00 PM,0,240,240,,,,,4.00,,240,0,0,0,0
+Daniel,Martinez,NEW PTO  accrual  : 1-3 years,,,01/27/2023 08:00:00 AM,01/27/2023 04:00:00 PM,,480,480,,,,,8.00,,0,0,0,480,0
+Sebastian,Uszynski,FOR FIVE COFFEE:Post Fire Recommissioning,Site work,1,01/30/2023 08:00:00 AM,01/30/2023 06:00:00 PM,0,600,600,,,,,10.00,"On-site: Sebastian, Alejandro   - bumped the chainvey motor, connected the new sensors onto the gates, and terminated wires - accessed the PLC on the new general packaging machine, replaced the battery on the PLC, cleared the error code out, uploaded factory settings due to corrupt data, tested machine OK  - tried contacting the Dietrich technician (left voicemail)  - replaced battery on the old packaging machine PLC, cleared out code and uploaded the factory settings, tested machine DOES NOT WORK, need more time to diagnose issue  - took off all pnuecon vacuums; all the vacuum motors are burnt, all the control wires are burnt, etc. NEED TO ORDER 3 VACUUMS",600,0,0,0,0
+Alder,Mendoza,Uncommon Grounds,Travel,,01/30/2023 03:45:00 AM,01/30/2023 07:00:00 AM,0,195,195,,,,,3.25,,195,0,0,0,0
+Alder,Mendoza,Uncommon Grounds,Site work,1,01/30/2023 07:00:00 AM,01/30/2023 04:30:00 PM,0,570,570,,,,,9.50,Replace duct work for roaster Remove old fan wheel and motor Installed new fan wheel Tested roaster,570,0,0,0,0
+Alder,Mendoza,Death Wish Coffee:DW General,Meeting,,01/30/2023 04:30:00 PM,01/30/2023 05:45:00 PM,0,75,75,,,,,1.25,Meeting with tony to go over coffee quality issue ,75,0,0,0,0
+Alder,Mendoza,Uncommon Grounds,Travel,,01/30/2023 05:45:00 PM,01/30/2023 08:45:00 PM,0,180,180,,,,,3.00,,180,0,0,0,0
+Alder,Mendoza,Coffee Holding:Comfort Foods Roaster Repair,Travel,,01/31/2023 08:00:00 AM,01/31/2023 01:00:00 PM,0,300,300,,,,,5.00,,300,0,0,0,0
