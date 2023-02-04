@@ -11,6 +11,7 @@ For this Phase we will use the data to answer and illustrate the following quest
     
    2. How many hours worked were travel time? 
     
+    
    ![](newplot-3.png)
     
  **PHASE 2:** Automation
